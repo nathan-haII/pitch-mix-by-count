@@ -1,11 +1,10 @@
 # Pitch mix by count
 
 A small Python project showing what one pitcher throws when he is ahead, even, or behind in the
-count, overall and against left- vs right-handed hitters. It is the kind of question an
-advance scout asks when preparing for a matchup.
+count, overall and against left vs. right-handed hitters. 
 
 ## Question
-How does [pitcher name]'s pitch selection change with the count, and does it differ by batter side?
+How does a certain pitcher's pitch selection change with the count, and does it differ by batter side?
 
 ## Data
 Pitch-by-pitch Statcast data for one pitcher and season from Baseball Savant (Statcast Search CSV).
