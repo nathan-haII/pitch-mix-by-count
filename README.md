@@ -28,7 +28,6 @@ If the download fails, use Statcast Search on baseballsavant.mlb.com, download t
 ![Pitch mix by count](figures/pitch_mix_by_count.png)
 ![Pitch mix by batter side](figures/pitch_mix_by_hand.png)
 
-[Two or three sentences: what changes with the count, what is different against lefties vs righties, and one thing a hitter might do with this information.]
 
 ## Limitations
 - One pitcher and one season, so some count situations have small samples (the chart shows n for each).
